@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ecommerce/static/css/main.12c86133.chunk.css",
+    "main.js": "/ecommerce/static/js/main.75b8cecb.chunk.js",
+    "main.js.map": "/ecommerce/static/js/main.75b8cecb.chunk.js.map",
+    "runtime~main.js": "/ecommerce/static/js/runtime~main.fed20531.js",
+    "runtime~main.js.map": "/ecommerce/static/js/runtime~main.fed20531.js.map",
+    "static/js/2.bf44f864.chunk.js": "/ecommerce/static/js/2.bf44f864.chunk.js",
+    "static/js/2.bf44f864.chunk.js.map": "/ecommerce/static/js/2.bf44f864.chunk.js.map",
+    "index.html": "/ecommerce/index.html",
+    "precache-manifest.10d2c3d8ea474427e74bea8011d5b2bc.js": "/ecommerce/precache-manifest.10d2c3d8ea474427e74bea8011d5b2bc.js",
+    "service-worker.js": "/ecommerce/service-worker.js",
+    "static/css/main.12c86133.chunk.css.map": "/ecommerce/static/css/main.12c86133.chunk.css.map",
+    "static/media/linearicons.css": "/ecommerce/static/media/Linearicons-Free.b9b7f23c.eot",
+    "static/media/main.css": "/ecommerce/static/media/exclusive.7267cfdc.jpg",
+    "static/media/font-awesome.min.css": "/ecommerce/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/p1.jpg": "/ecommerce/static/media/p1.5c4ac384.jpg",
+    "static/media/p12.jpg": "/ecommerce/static/media/p12.acdf92f2.jpg",
+    "static/media/p2.jpg": "/ecommerce/static/media/p2.2e64bfe2.jpg",
+    "static/media/p3.jpg": "/ecommerce/static/media/p3.0441fa90.jpg",
+    "static/media/p4.jpg": "/ecommerce/static/media/p4.755626c9.jpg",
+    "static/media/p5.jpg": "/ecommerce/static/media/p5.b1dbbe08.jpg",
+    "static/media/p6.jpg": "/ecommerce/static/media/p6.ba2b72ab.jpg",
+    "static/media/p7.jpg": "/ecommerce/static/media/p7.a5487a03.jpg",
+    "static/media/p8.jpg": "/ecommerce/static/media/p8.7bde9956.jpg",
+    "static/media/themify-icons.css": "/ecommerce/static/media/themify.e23a7dca.ttf"
+  }
+}
